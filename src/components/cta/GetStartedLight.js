@@ -26,9 +26,9 @@ export default ({
   subheading = "",
   heading = "Find out more about me.",
   primaryLinkText = "Linked In",
-  primaryLinkUrl = "",
+  primaryLinkUrl = "https://www.linkedin.com/in/halle-wehmeyer-705b881b5/",
   secondaryLinkText = "Resume",
-  secondaryLinkUrl = "",
+  secondaryLinkUrl = "https://desaign.app/clients/HalleWehemeyer/HW2021.pdf",
   pushDownFooter = true
 }) => {
   return (
