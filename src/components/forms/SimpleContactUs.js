@@ -41,7 +41,7 @@ export default () => {
         <FormContainer>
           <div tw="mx-auto max-w-4xl">
             <h2>Write Your Message!</h2>
-            <form action="../../mail.php">
+            <form action="mail.php">
               <TwoColumn>
                 <Column>
                   <InputContainer>

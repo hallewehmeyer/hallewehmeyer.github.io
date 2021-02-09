@@ -1,7 +1,7 @@
 <?php
 $recipient = "halle.atx@gmail.com";
 $subject = "Portfolio Response Message";
-$location = "../public/index.html";
+$location = "index.html";
 $sender = $recipient;
 $arr = $_REQUEST['useCurrentMessage '];
 
