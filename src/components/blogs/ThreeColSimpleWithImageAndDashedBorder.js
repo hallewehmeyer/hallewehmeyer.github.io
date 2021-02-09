@@ -62,7 +62,7 @@ export default ({
   const blogPosts = [
     {
       imageSrc:`${advensure}`,
-      category: "JavaScript, HTML, Bootstrap",
+      category: "JavaScript, HTML, Bootstrap, React, MongoDB, Express, Passport, Node",
       title: "Advensure",
       description: "Application designed to simplify and organize travel packing checklists, giving users a simple and dependable resource to plan for upcoming trips, as well as save and use packing lists from trips prior.",
       url: "https://github.com/hallewehmeyer/AdvenSure",
@@ -70,7 +70,7 @@ export default ({
     },
     {
       imageSrc:`${social}`,
-      category: "JavaScript, HTML, Bootstrap",
+      category: "JavaScript, HTML, Bootstrap, MongoDB, Express, Node",
       title: "Keep Austin Social",
       description: "Social Networking application designed for locals over the age of 21 to stay informed and share information about local happy hour specials, events and reviews.",
       url: "https://github.com/hallewehmeyer/KeepAustinSocial",
@@ -78,7 +78,7 @@ export default ({
     },
     {
       imageSrc:`${budget}`,
-      category: "JavaScript, HTML, Bootstrap",
+      category: "JavaScript, HTML, Bootstrap, MongoDB, Express, Node",
       title: "Budget Buddy",
       description: "Application that helps users monitor and balance finances and track transaction history,  available online or offline.",
       url: "https://github.com/hallewehmeyer/BudgetBuddy",
@@ -86,7 +86,7 @@ export default ({
     },
     {
       imageSrc:`${workout}`,
-      category: "JavaScript, HTML, Bootstrap",
+      category: "JavaScript, HTML, Bootstrap, MongoDB, Express, Node",
       title: "Workout Buddy",
       description: "Application designed to help active individuals stay on track with their fitness routine by allowing them to create, track and save workouts.",
       url: "https://github.com/hallewehmeyer/WorkoutBuddy",
@@ -94,16 +94,16 @@ export default ({
     },
     {
       imageSrc:`${notes}`,
-      category: "JavaScript, HTML, Bootstrap",
+      category: "JavaScript, HTML, Bootstrap, MongoDB, Express, Node",
       title: "Note Taker",
-      description: "Application to plan and organize daily schedules and tasks.",
+      description: "Application to help users take notes, plan and organize daily schedules and tasks.",
       url: "https://github.com/hallewehmeyer/AwesomeNoteTaker",
       url2: "https://awesome-note-taker001.herokuapp.com/",
     },
     {
       imageSrc:`${book}`,
-      category: "JavaScript, HTML, Bootstrap",
-      title: "Note Taker",
+      category: "React, JavaScript, HTML, Bootstrap, MongoDB",
+      title: "BookNook",
       description: "Application for readers to browse new books, read synopses, save to personal lists and keep track of books they have previously read.",
       url: "https://github.com/hallewehmeyer/book-search",
       url2: "https://google-book-og.herokuapp.com/",
