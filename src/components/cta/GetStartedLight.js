@@ -28,7 +28,7 @@ export default ({
   primaryLinkText = "Linked In",
   primaryLinkUrl = "https://www.linkedin.com/in/halle-wehmeyer-705b881b5/",
   secondaryLinkText = "Resume",
-  secondaryLinkUrl = "https://drive.google.com/file/d/1i1Ah7yAZo7PW58A_a6f0XjMROL9KsQcl/view",
+  secondaryLinkUrl = "https://drive.google.com/file/d/1i1Ah7yAZo7PW58A_a6f0XjMROL9KsQcl/view?usp=sharing",
   pushDownFooter = true
 }) => {
   return (
